@@ -44,7 +44,7 @@ Raiz
 
 #### Raiz
 Nome da pasta do projeto no nosso servidor local (htdocs) no nosso caso
-a pasta se chama res_post.
+a pasta se chama rest_pos.
 
 #### Vendor
 Pasta gerada pelo composer, nela estarão todas as dependencias do projeto, e o arquivo autoload.
@@ -65,8 +65,8 @@ Aqui ficarão os arquivos de rotas do slim. Separados por tipo de rotas. Ex: Usu
 ### Instalação
 
 * Clone o projeto na raiz do seu servidor (htdocs)
-* Dentro da pasta do projeto (rest_post) rode o comando no terminal: composer install
-* Chamar no navegador :  http://localhost/rest_post
+* Dentro da pasta do projeto (rest_pos) rode o comando no terminal: composer install
+* Chamar no navegador :  http://localhost/rest_pos
 * Deve Aparecer:  {"success":"Parabéns sua aplicação esta funcionando!"}
 
 
