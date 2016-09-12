@@ -1,6 +1,6 @@
 # Projeto Rest Pós
 
-Criando uma API Rest utilizando o Mini Framework [Slim](http://www.http://www.slimframework.com/).
+Criando uma API Rest utilizando o Mini Framework [Slim](http://www.slimframework.com/).
 
 ### Requisitos
 
